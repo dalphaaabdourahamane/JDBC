@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TPJdbc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jdbc.war">
+      <element id="artifact" artifact-name="TPJdbc:war exploded" />
+    </root>
+  </artifact>
+</component>

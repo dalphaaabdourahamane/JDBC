@@ -1,0 +1,4 @@
+driver = org.postgresql.Driver
+url = jdbc:postgresql://postgres.crio.dauphine.fr/projet_14
+utilisateur = projet_14
+mdp = rctk:22

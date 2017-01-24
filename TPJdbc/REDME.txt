@@ -1,0 +1,13 @@
+Chaque DAO possede une interface et les annotations sur les entités ne sont pas utilisés ( unique par reflexivité pour remplir les champs)
+
+Relation bidirectionnelle entre Ville et BureauVote
+
+Toutes les stransactions on un mode EAGER
+
+Electeur et ville en mode LAZY
+
+Le MAIN est dans Main2 TEST
+
+A noter que les objects ne sont recuperés en base que si ils ne sont pas en memoire
+
+La creation est effectuer UNIQUEMENT si l'object n'hesite pas en bas dans le cas contraire il est juste renvoyé
